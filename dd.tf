@@ -5,7 +5,3 @@ a
 d
 d
 d
-dddd
-" "name" {
-  
-}
